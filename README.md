@@ -12,6 +12,5 @@
 9. create ubuntu server and install/enable apache2
 
 Finally creating module:
-
- Networking services in module named "Subnets"
- EC2 instance and releated dependencies in module named "WebServer"
+1. Networking services in module named "Subnets"
+2. EC2 instance and releated dependencies in module named "WebServer"
