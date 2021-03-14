@@ -1,0 +1,12 @@
+# local .terraform dir
+.terraform/*
+
+# tf state files
+*.tfstate
+*.tfstate.*
+
+# tf variables file (as it my include sesitive data
+*.tfvars
+
+
+darwin_amd64/*
